@@ -1,13 +1,13 @@
 ---
 #layout: archive
-title: "论文成果"
+title: "Publicatioins"
 permalink: /publications/
 author_profile: true
 ---
 
-(*) 表示通讯作者
-### 智能机器人规划与控制方向
-> 期刊论文
+(*) Denotes Corresponding Author
+### Intelligent Robot Planning and Control Direction
+> Journal Papers
 
 - Zhu T, Mao J\*, Han L, Zhang C, Yang J. [Real-time dynamic obstacle avoidance for robot manipulators based on cascaded nonlinear MPC with artificial potential field[J]](https://ieeexplore.ieee.org/abstract/document/10234133). *IEEE Transactions on Industrial Electronics*, 2023, doi: 10.1109/TIE.2023.3306405. (SCI, 中科院1区, Top, IF: 7.7)
 - Han L, Mao J\*, Zhang C, Kay R W, Richardson R C, Zhou C. [A systematic trajectory tracking framework for robot manipulators: An observer-based nonsmooth control approach[J]](https://ieeexplore.ieee.org/document/10324401). *IEEE Transactions on Industrial Electronics*, 2023, doi: 10.1109/TIE.2023.3331098. (SCI, 中科院1区, Top, IF: 7.7)
@@ -22,16 +22,16 @@ author_profile: true
 <!-- 李双圻, 朱天启, 冒建亮\*. 基于动态轨迹预测控制的机械手臂运动目标捕捉策略[J]. *计算机仿真*, 2023.
 周之剑, 任善荣, 冒建亮\*, 陈辉. 基于模糊自适应滑模动量观测器的机械臂外力矩估计[J], *制造业自动化*，2023.-->
 
-> 会议论文
+> Conference Papers
 
 - Liang H, Wang X\*, Mao J, Yang J. [Control barrier function-based force constrained safety compliance control for manipulator[C]](https://ieeexplore.ieee.org/document/10275266)//*2023 28th International Conference on Automation and Computing (ICAC)*. IEEE, 2023: 1-7.
 - Pan Y, Xia F\*, Mao J. [A robot manipulator grasping method based on improved YOLOX[C]](https://ieeexplore.ieee.org/document/10030260)//*2022 4th International Conference on Electrical Engineering and Control Technologies (CEECT)*. IEEE, 2022: 1279-1283.
 - Mao J, Yang J\*, Li Q, Li S. [Extended-state-observer-based output feedback sliding mode control of inertial stabilized platform[C]](https://ieeexplore.ieee.org/document/8283081)//*2017 12th IEEE Conference on Industrial Electronics and Applications (ICIEA)*. IEEE, 2017: 1528-1533.
 - Mao J, Li S\*, Li Q, Yang J. [Continuous second-order sliding mode control based on disturbance observer for LOS stabilized system[C]](https://ieeexplore.ieee.org/document/7506951)//*2016 14th International Workshop on Variable Structure Systems (VSS)*. IEEE, 2016: 394-399.
 
-### 电动汽车永磁电机调速控制方向
+### Electric Vehicle Permanent Magnet Motor Speed Control Direction
 
-> 期刊论文
+> Journal Papers
 
 - Dong X, Mao J, Yan Y, Zhang C\*, Yang J. [Generalized dynamic predictive control for nonlinear systems subject to mismatched disturbances with application to PMSM drives[J]](https://ieeexplore.ieee.org/document/10049756). *IEEE Transactions on Industrial Electronics*, 2023. (SCI, 中科院1区, Top, IF: 7.7)
 - Cao Z, Mao J\*, Dong X, et al. [Composite generalized dynamic predictive control with self-tuning horizon for wide-range speed regulation of PMSM drives[J]](https://ieeexplore.ieee.org/document/10306308). *IEEE Transactions on Energy Conversion*, 2023, doi: 10.1109/TEC.2023.3329931. (SCI, 中科院1区, Top, IF: 4.9)
@@ -41,10 +41,10 @@ author_profile: true
 <!-- 冒建亮\*, 魏亚飞, 张传林. 基于DSP的永磁同步电动机RCP对拖实验平台设计[J]. 实验室研究与探索, 2023, 42(04): 38-43.
 冒建亮\*, 叶桦, 李奇. 基于FPGA的步进电机电流优化控制策略[J]. 信息与控制, 2015, 44(05): 585-591.-->
 
-> 会议论文
+> Conference Papers
 
 - Cao Z, Mao J\*, Dong X, Zhang C. [Direct speed regulation for PMSM drive system via a generalized dynamic predictive control approach[C]](https://ieeexplore.ieee.org/document/9982919)//*2022 25th International Conference on Electrical Machines and Systems (ICEMS)*. IEEE, 2022: 1-6.
 - Wang X, Mao J*, Dong X, Zhang C. [Observer-based composite super-twisting sliding mode control for high-precision positioning servo system[C]](https://ieeexplore.ieee.org/abstract/document/10055159)//*2022 China Automation Congress (CAC)*. IEEE, 2022: 4213-4218.
 
-### 其他交叉融合方向
+### Other Cross-Fusion Directions
 - Khan M I\*, Liu S, Mao J, Basit A, Ahmed A, Daraz A. [Electromagnetic coupling suppression of eight-ports MIMO antenna for satellite communication with neutralize block and parasitic elements[J]](https://www.sciencedirect.com/science/article/pii/S1434841123002959). *AEU-International Journal of Electronics and Communications*, 2023, 170: 154821. (SCI, 中科院3区, IF: 3.2)
