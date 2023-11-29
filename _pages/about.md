@@ -1,32 +1,27 @@
 ---
 permalink: /
-title: "Jianliang Mao 冒建亮"
+title: "Jianliang Mao"
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<!--permalink: /: 设置页面的永久链接为根目录。
-title: "About me": 设置页面的标题为"About me"。
-excerpt: "About me": 设置页面的摘要为"About me"。
-author_profile: true: 显示作者的个人资料。
-redirect_from:: 设置重定向链接，将其他链接指向该页面。-->
 
-上海市高等教育揽蓄计划（B类）人才，长期从事机器人与伺服系统相关的应用基础研究，曾入选2021年"江苏省科技副总"、2019年"江苏省双创博士"等项目。在IEEE Trans等高水平SCI/EI学术期刊发表论文10余篇，申请国家发明专利30余项，形成成果转化3项，申请美国专利1项，为企业创造直接经济效益超千万元。近三年主持科研项目经费300多万元，包括国家自然科学基金项目1项，省部级科研项目3项，企业委托课题多项等。曾获得2022年中国控制与决策会议最具人气学术奖，2022年电气工程与控制技术最佳论文奖，2020年埃斯顿"工作推土机奖"白金奖，2019年江苏省高层次创新创业人才引进计划等奖励。
+Shanghai Higher Education Talent Recruitment Plan (Category B), specializing in long-term fundamental research applications related to robotics and servo systems. Previously selected for projects such as the 2021 "Jiangsu Provincial Science and Technology Deputy General" and the 2019 "Jiangsu Provincial Double Innovation Doctoral Program." Published over 10 papers in high-impact SCI/EI journals like IEEE Trans, applied for more than 30 national invention patents, achieved three technology transfers, applied for one U.S. patent, contributing direct economic benefits of over tens of millions of yuan to businesses. In the past three years, led research projects with funding exceeding 3 million yuan, including one National Natural Science Foundation project, three provincial-level research projects, and multiple commissioned projects from enterprises. Received awards such as the 2022 China Control and Decision Conference Most Popular Academic Award, 2022 Electrical Engineering and Control Technology Best Paper Award, 2020 Easton "Work Bulldozer Award" Platinum Award, and the 2019 Jiangsu Provincial High-level Innovation and Entrepreneurial Talent Introduction Plan.
 
-主讲智能机器人、自动控制原理、机器人仿真与编程技术等课程，主持建设2023年上海市重点课程项目。指导学生获得第八届和第九届互联网+大学生创新创业大赛上海赛区银奖，第十三届挑战杯上海市大学生创业计划竞赛铜奖，2022年全国大学生电力创新设计竞赛全国一等奖，2023年张江机器人谷杯机器人大赛一等奖等。
+Taught courses in Intelligent Robotics, Automatic Control Principles, Robot Simulation, and Programming Technology. Currently overseeing the construction of a key course project in Shanghai for 2023. Guided students to win awards in various competitions, including silver and bronze medals in the 8th and 9th Internet+ College Student Innovation and Entrepreneurship Competitions (Shanghai Division), a national first prize in the 2022 National College Student Power Innovation Design Competition, and a first prize in the 2023 Zhangjiang Robotics Valley Cup Robotics Competition.
 
-### 教育经历
-- 2014.03 - 2018.10      &emsp;东南大学自动化学院  &emsp; 博士 &emsp; 控制理论与控制工程专业 
-- 2011.08 - 2014.01      &emsp;东南大学自动化学院  &emsp; 硕士 &emsp; 控制工程专业
-- 2007.08 - 2011.06      &emsp;东南大学自动化学院  &emsp; 学士 &emsp; 自动化专业
+### Education
+- 2014.03 - 2018.10   Southeast University, School of Automation   Ph.D.   Major: Control Theory and Control Engineering
+- 2011.08 - 2014.01   Southeast University, School of Automation   Master's   Major: Control Engineering
+- 2007.08 - 2011.06   Southeast University, School of Automation   Bachelor's   Major: Automation
 
-### 工作经历
-- 2021.03 - 现在         &emsp;&emsp;&nbsp;上海电力大学自动化工程学院  &emsp;&emsp; 讲师
-- 2018.18 - 2021.03      &emsp;南京埃斯顿自动化股份有限公司   &emsp; 机器人控制算法工程师
+### Work Experience
+- 2021.03 - Present   Shanghai University of Electric Power, School of Automation Engineering   Lecturer
+- 2018.18 - 2021.03   Nanjing Easton Automation Co., Ltd.   Robot Control Algorithm Engineer
 
-# 最新动态
-- 2023/11/20 祝贺团队成员曹忠昆论文被IEEE-TEC顺利接收！
-- 2023/11/20 祝贺团队合作成员韩林言博士论文被IEEE-TIE顺利接收！
-- 2023/09/20 祝贺团队合作论文获得ICAC国际会议最佳论文奖！
+# Latest Updates
+- 2023/11/20 Congratulations to team member Cao Zhongkun on the acceptance of his paper in IEEE-TEC!
+- 2023/11/20 Congratulations to Dr. Han Linyan, a collaborative team member, on the successful acceptance of his paper in IEEE-TIE!
+- 2023/09/20 Congratulations on the team's collaborative paper winning the Best Paper Award at the ICAC International Conference!
