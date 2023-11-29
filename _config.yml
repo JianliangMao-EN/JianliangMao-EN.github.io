@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "主页"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jianliang Mao"
-description              : &description "IASLab智能机器人"
+description              : &description "IASLab Intelligent Robot"
 url                      : https://JianliangMao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JianliangMao/JianliangMao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Jianliang Mao"
   avatar           : "profile.png"
-  bio              : "电子邮箱: jl_mao@shiep.edu.cn"
+  bio              : "Email: jl_mao@shiep.edu.cn"
   location         : "Shanghai, China"
   employer         : #"www.shiep.edu.cn"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
