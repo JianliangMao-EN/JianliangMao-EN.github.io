@@ -1,34 +1,34 @@
 ---
 #layout: archive
-title: "科研项目"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
 
-### 视觉伺服规划与控制
+### Visual Servo Planning and Control
 
-- 国家自然科学基金青年项目：不确定性环境下的机械臂约束视觉伺服控制研究，2023.01-2025.12；
-- 企业横向课题：智能焊接机器人视觉伺服与运动控制系统研发，2022.11-2023.05；
-  
-### 机器人轨迹跟随控制
+- National Natural Science Foundation Youth Project: Research on Constrained Visual Servo Control of Robotic Arms in Uncertain Environments, 2023.01-2025.12;
+- Enterprise Collaborative Project: Research and Development of Intelligent Welding Robot Visual Servo and Motion Control System, 2022.11-2023.05;
 
-- 教育部春晖计划合作科研项目：面向电力机器人的智能控制技术研究与应用，2023.05-2025.05；
-- 企业横向课题：管道爬壁机器人控制技术研究，2022.03-2022.12；
+### Robot Trajectory Following Control
 
-### 人机交互与柔顺控制
+- Ministry of Education Spring Plan Collaborative Research Project: Research and Application of Intelligent Control Technology for Power Robots, 2023.05-2025.05;
+- Enterprise Collaborative Project: Research on Control Technology for Pipeline Climbing Robots, 2022.03-2022.12;
 
-- 教育部春晖计划合作科研项目：面向电力机器人的智能控制技术研究与应用，2023.05-2025.05；
-  
-### 遥操作与共享控制
+### Human-Machine Interaction and Flexible Control
 
-- 企业横向课题：远程协作智能运维机器人交互控制算法研究，2022.03-2023.08；
-  
-### 新能源电驱调速控制
+- Ministry of Education Spring Plan Collaborative Research Project: Research and Application of Intelligent Control Technology for Power Robots, 2023.05-2025.05;
 
-- 上海市外国专家项目：基于抗干扰预测控制的新能源汽车永磁同步电机宽速域调节策略研究，2023.01-2023.12.31;
-- 江苏省产学研合作项目：高性能低压无刷直流电机驱控一体关键技术研发，2021.05-2023.05；
+### Teleoperation and Shared Control
 
-### 其他项目
+- Enterprise Collaborative Project: Research on Interaction Control Algorithm for Remote Cooperative Intelligent Maintenance Robots, 2022.03-2023.08;
 
-- 企业横向课题：食品机械智能装备控制系统研发，2022.03-2025.02；
-- 企业横向课题：电力智能仓库信息化管理系统技术开发，2022.07-2023.11；
+### New Energy Electric Drive Speed Control
+
+- Shanghai Foreign Expert Project: Research on Wide Speed Range Regulation Strategy of New Energy Vehicle Permanent Magnet Synchronous Motor Based on Disturbance Rejection Predictive Control, 2023.01-2023.12.31;
+- Jiangsu Industry-Academia-Research Collaboration Project: Key Technology Research and Development of High-Performance Low-Voltage Brushless DC Motor Drive and Control Integration, 2021.05-2023.05;
+
+### Other Projects
+
+- Enterprise Collaborative Project: Research and Development of Intelligent Control System for Food Machinery, 2022.03-2025.02;
+- Enterprise Collaborative Project: Technical Development of Power Intelligent Warehouse Informatization Management System, 2022.07-2023.11;
