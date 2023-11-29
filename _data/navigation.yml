@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "科研项目"
+  - title: "Projects"
     url: /projects/
     
-  - title: "论文成果"
+  - title: "Publications"
     url: /publications/
 
-  - title: "专利成果"
+  - title: "Patents"
     url: /patents/  
 
-  - title: "EN/中文"
-    url: /
+  - title: "中文"
+    url: https://jianliangmao.github.io/
 
   #- title: "教学内容"
   #  url: /teaching/    
