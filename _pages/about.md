@@ -18,7 +18,7 @@ He has published over 10 papers in esteemed SCI/EI journals, including IEEE Tran
 
 ### Work Experience
 - 2021.03 - Present   Shanghai University of Electric Power, College of Automation Engineering   Lecturer
-- 2018.18 - 2021.03   Nanjing Easton Automation Co., Ltd.   Robot Control Engineer
+- 2018.08 - 2021.03   Nanjing Easton Automation Co., Ltd.   Robot Control Engineer
 
 # Latest Updates
 - 2023/11/20 Congratulations to team member Cao Zhongkun on the acceptance of his paper in IEEE-TEC!
