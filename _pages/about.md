@@ -23,6 +23,7 @@ He has published over 10 papers in esteemed SCI/EI journals, including IEEE Tran
 - 2018.08 - 2021.03   Nanjing Easton Automation Co., Ltd.   Robot Control Engineer
 
 # Latest Updates
-- 2023/11/20 Congratulations to team member Cao Zhongkun on the acceptance of his paper in IEEE-TEC!
-- 2023/11/20 Congratulations to Dr. Han Linyan, a collaborative team member, on the successful acceptance of her paper in IEEE-TIE!
-- 2023/09/20 Congratulations on the team's collaborative paper winning the Best Paper Award at the ICAC International Conference!
+
+- <div style="text-align: justify;"> 2023/11/20 Congratulations to team member Cao Zhongkun on the acceptance of his paper in IEEE-TEC! </div>
+- <div style="text-align: justify;"> 2023/11/20 Congratulations to Dr. Han Linyan, a collaborative team member, on the successful acceptance of her paper in IEEE-TIE! </div>
+- <div style="text-align: justify;"> 2023/09/20 Congratulations on the team's collaborative paper winning the Best Paper Award at the ICAC International Conference! </div>
