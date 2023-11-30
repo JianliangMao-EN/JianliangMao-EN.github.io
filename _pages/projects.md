@@ -8,11 +8,11 @@ author_profile: true
 ### Visual Servo Planning and Control
 
 - National Natural Science Foundation Youth Project: Research on Constrained Visual Servo Control of Robotic Arms in Uncertain Environments, 2023.01-2025.12;
-- Enterprise Collaborative Project: Research and Development of Intelligent Welding Robot Visual Servo and Motion Control System, 2022.11-2023.05;
+- Enterprise Collaborative Project: Research and Development of Intelligent Welding Robot Visual Servo and Motion Control System, 2022.11-2023.12;
 
 ### Robot Trajectory Following Control
 
-- Ministry of Education Spring Plan Collaborative Research Project: Research and Application of Intelligent Control Technology for Power Robots, 2023.05-2025.05;
+- Ministry of Education Key Laboratory Open Project: Research on Robot Dynamics Control Based on Composite Disturbance Rejection Method, 2022.05-2024.04;
 - Enterprise Collaborative Project: Research on Control Technology for Pipeline Climbing Robots, 2022.03-2022.12;
 
 ### Human-Machine Interaction and Flexible Control
