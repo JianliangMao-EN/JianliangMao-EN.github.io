@@ -24,6 +24,7 @@ He has published over 10 papers in esteemed SCI/EI journals, including IEEE Tran
 
 # Latest News
 
-- <div style="text-align: justify;"> 2023/11/20 Congratulations to team member Cao Zhongkun on the acceptance of his paper in IEEE-TEC! </div>
-- <div style="text-align: justify;"> 2023/11/20 Congratulations to Dr. Han Linyan, a collaborative team member, on the successful acceptance of her paper in IEEE-TIE! </div>
-- <div style="text-align: justify;"> 2023/09/20 Congratulations on the team's collaborative paper winning the Best Paper Award at the ICAC International Conference! </div>
+- <div style="text-align: justify;"> 2023/11/21 Congratulations to Dr. Han Linyan, a collaborative team member, on the successful acceptance of her paper by IEEE-TIE! </div>
+- <div style="text-align: justify;"> 2023/11/03 Congratulations to team member Cao Zhongkun on the successful acceptance of his paper by IEEE-TEC! </div>
+- <div style="text-align: justify;"> 2023/09/02 Congratulations on the team's collaborative paper winning the Best Paper Award at the ICAC International Conference! </div>
+- <div style="text-align: justify;"> 2023/08/29 Congratulations to team member Zhu Tianqi on the successful acceptance of his paper by IEEE-TIE! </div>
