@@ -7,7 +7,7 @@ author_profile: true
 
 ### Visual Servo Planning and Control
 
-- National Natural Science Foundation Youth Project: Research on Constrained Visual Servo Control of Robotic Arms in Uncertain Environments, 2023.01-2025.12
+- National Natural Science Foundation Youth Project: Research on Constrained Visual Servo Control of Robot Manipulators in Uncertain Environments, 2023.01-2025.12
 - Enterprise Collaborative Project: Research and Development of Intelligent Welding Robot Visual Servo and Motion Control System, 2022.11-2023.12
 
 ### Robot Trajectory Following Control
